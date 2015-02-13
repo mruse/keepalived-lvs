@@ -1,7 +1,6 @@
 	# /etc/keepalived/keepalived.conf
 	# 完整的 keepalived 配置文件由3部分组成：全局定义部分，vrrp实例定义部分，虚拟服务器定义部分
 	
-	vrrp_instance VI_1 {
 	! Configuration File for keepalived
 	# 全局定义部分
 	global_defs {
